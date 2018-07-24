@@ -4,14 +4,14 @@ The program is able to read the betting odds for the wolrd cup match between Eng
 
 ### Prerequisites
 
-re
-requests	: Request the HTML											 										
-bs4				: Beautiful Soup 										
-decimal		: Easier floating point arithmetic
-matplotlib: Visuals								
-time      : For the current time
-datetime  : For the date
-pandas    : Tabulate results
+re <br />
+requests	: Request the HTML <br />											 										
+bs4				: Beautiful Soup 		<br />								
+decimal		: Easier floating point arithmetic <br />
+matplotlib: Visuals							<br />	
+time      : For the current time <br />
+datetime  : For the date <br />
+pandas    : Tabulate results <br />
 
 ## Authors
 Alvin Useree
