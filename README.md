@@ -2,6 +2,8 @@
 
 The program is able to read the betting odds for the wolrd cup match between England and Columbia, from all the major betting sites (every 10 seconds). As the match has already concluded, the program is purely for demonstration purposes.
 
+![Image description](https://github.com/alvinuseree/-DATA-England-vs-Columbia-betting-odds-data-scraping-project-/blob/master/betting_demo.png)
+
 ### Prerequisites
 
 re <br />
@@ -17,4 +19,4 @@ pandas    : Tabulate results <br />
 Alvin Useree
 
 
-![Image description](https://github.com/alvinuseree/-DATA-England-vs-Columbia-betting-odds-data-scraping-project-/blob/master/betting_demo.png)
+
